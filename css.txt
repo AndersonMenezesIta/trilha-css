@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #ffffff;
+}
+
+header {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 1em;
+}
+
+main {
+  width: 800px;
+  margin: 0 auto;
+}
+
+section {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+footer {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 20px;
+}

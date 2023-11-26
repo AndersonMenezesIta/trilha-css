@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Landing Page</title>
+</head>
+<body>
+  <header>
+    <h1>Titulo da página</h1>
+    <p>Subtítulo da página</p>
+  </header>
+  <main>
+    <section>
+      <h2>Seção 1</h2>
+      <p>Conteúdo da seção 1</p>
+    </section>
+    <section>
+      <h2>Seção 2</h2>
+      <p>Conteúdo da seção 2</p>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright 2023</p>
+  </footer>
+</body>
+</html>
